@@ -1,16 +1,30 @@
-# React + Vite
+#DevTinder
+#setup Vite App
+#Install Tailwind
+#SetUp DaisyUI
+#Add Navbar component from DaisyUI
+#Install React Router Dom
+# Create BrowserRouter > Routes >Route=/Body > RouteChildren
+#Create Outlet in your Body Component
+#Created Footer using DaisyUI
+#Create a Logon Page
+#install axios
+#CORS -install cors in backend => add middleware to with configurations: origin,withC redentials:true
+#Whenever you are making api call so pass axios=> {withCredentials:true}
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+Body
+    NavBar
+    Route=/ =>Feed
+    Route=/login  =>login
+    Route=/connections =>Connevtions
+    Route=/profile  =>Profile
