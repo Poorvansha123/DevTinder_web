@@ -11,7 +11,8 @@
 #install axios
 #CORS -install cors in backend => add middleware to with configurations: origin,withC redentials:true
 #Whenever you are making api call so pass axios=> {withCredentials:true}
-
+#Install Redux Toolkit+@reduxjs/toolit=>configureStore=>Provider=>createSlice=>add reducer to store
+#Login and see if your data is coming properly in the store
 
 
 
