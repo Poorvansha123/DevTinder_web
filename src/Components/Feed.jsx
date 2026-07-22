@@ -86,7 +86,8 @@ const Feed = () => {
     useEffect(() => {
         getFeed()
     }, [])
-
+if(!feed) return
+if(feed.length===0) return <h1>No elements in feed</h1>
     return (
         feed && feed.length === 0 ? <h1 className="text-3xl font-bold text-center my-10">No more users to show</h1> :
         <div className="flex justify-center my-10">

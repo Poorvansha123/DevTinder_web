@@ -22,7 +22,8 @@
 #Feature for see all my Connections
 #Make Request Page
 #Feature-Accept/Reject Connection request
-
+#Send/Ignore the user card from the feed
+# Create SignUp New User using Login Form Only
 
 
 
