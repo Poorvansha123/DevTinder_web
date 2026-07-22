@@ -7,7 +7,7 @@
 # Create BrowserRouter > Routes >Route=/Body > RouteChildren
 #Create Outlet in your Body Component
 #Created Footer using DaisyUI
-#Create a Logon Page
+#Create a Login Page
 #install axios
 #CORS -install cors in backend => add middleware to with configurations: origin,withC redentials:true
 #Whenever you are making api call so pass axios=> {withCredentials:true}
@@ -19,8 +19,9 @@
 #Design The FeedSlice and add it to store
 #Built FeedUI and then UserCard
 #Built EditProfile
-#
-#
+#Feature for see all my Connections
+#Make Request Page
+#Feature-Accept/Reject Connection request
 
 
 
