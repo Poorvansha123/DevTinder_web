@@ -13,8 +13,14 @@
 #Whenever you are making api call so pass axios=> {withCredentials:true}
 #Install Redux Toolkit+@reduxjs/toolit=>configureStore=>Provider=>createSlice=>add reducer to store
 #Login and see if your data is coming properly in the store
-
-
+#You should not be able to access other routes without login
+#If token is not present,redirect user to login page
+#Logout Feature
+#Design The FeedSlice and add it to store
+#Built FeedUI and then UserCard
+#Built EditProfile
+#
+#
 
 
 
